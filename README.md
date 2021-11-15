@@ -1,9 +1,8 @@
 # GrandRaid
 
-Un jeu sur une épreuve fictive basé sur le Grand Raid à l'île de La Réunion ! Réalisé au cours du Master 1 d' Informatique à l'Université de La Réunion dans le cadre d' un travail de encdré de recherche.
+Un jeu sur une épreuve sportive fictive, basé sur le Grand Raid à l'île de La Réunion ! Réalisé au cours du Master 1 d' Informatique à l'Université de La Réunion dans le cadre d' un travail encadré de recherche.
 
 ![](reunion.png)
-
 
 ## Moteur de jeu
 
