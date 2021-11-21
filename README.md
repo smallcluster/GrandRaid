@@ -1,6 +1,8 @@
 # GrandRaid
 
-Un prototype de jeu vidéo sur une épreuve sportive fictive à l'île de La Réunion ! Réalisé au cours du Master 1 d' Informatique à l'Université de La Réunion dans le cadre d' un travail encadré de recherche.
+Un prototype de jeu vidéo sur une épreuve sportive fictive à l'île de La Réunion !
+
+Réalisé au cours du Master 1 d' Informatique  dans le cadre d' un travail encadré de recherche, pour illustrer le workflow d'animation 3d, créé à l' Université de La Réunion.
 
 ![](reunion.png)
 ![](falaise.png)
