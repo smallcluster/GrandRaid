@@ -16,6 +16,11 @@ Unreal engine 4
 
 Contains assets from ambientCG.com, licensed under CC0 1.0 Universal.
 
+### Animations
+
+Animations de Mixamo. Retargeting effectué sous Blender via l'add-on réalisé lors de ce travail encadré de recherche :
+https://github.com/smallcluster/TER-animation-3d
+
 ### Audio
 
 - Musiques d' Olivier Sébastien
