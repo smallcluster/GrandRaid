@@ -4,6 +4,12 @@ Un prototype de jeu vidéo sur une épreuve sportive fictive à l'île de La Ré
 
 Réalisé au cours du Master 1 d' Informatique  dans le cadre d' un travail encadré de recherche, pour illustrer le workflow d'animation 3d, créé à l' Université de La Réunion.
 
+## Page itch.io
+
+https://smallcluster.itch.io/grandraid
+
+## Illustrations
+
 ![](reunion.png)
 ![](falaise.png)
 ![](rondpoint.png)
